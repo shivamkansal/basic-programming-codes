@@ -28,3 +28,4 @@ cin>>n;
 printPatt(n);
 return 0;
 }
+//thanks 
